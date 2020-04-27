@@ -124,6 +124,13 @@ span{
 @media only screen and (max-width: 600px) {
   .card {
     width: 80%;
-    height: 30%;
+    height: 50%;
+  }
+}
+
+@media only screen and (max-width: 1050px) {
+  .card {
+    width: 60%;
+    height: 40%;
   }
 }
